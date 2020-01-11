@@ -48,7 +48,7 @@ export class ProductsComponent implements OnInit {
         id:4,
         title: "Latte",
         description: "200 ml of Latte",
-        img:"assets/togo.png",
+        img:"assets/coffe_beans.png",
         price:3
       },
       {
@@ -60,9 +60,9 @@ export class ProductsComponent implements OnInit {
       },
       {
         id:6,
-        title: "Milk",
-        description: "Cup of cold milk",
-        img:"assets/milk.png",
+        title: "Macchiato",
+        description: "300 ml of Macchiato",
+        img:"assets/macchiato.png",
         price:1
       },
       {
@@ -81,9 +81,9 @@ export class ProductsComponent implements OnInit {
       },
       {
         id:9,
-        title: "Macchiato",
-        description: "300 ml of Macchiato",
-        img:"assets/macchiato.png",
+        title: "Milk",
+        description: "Cup of cold milk",
+        img:"assets/milk.png",
         price:3
       }
     ]

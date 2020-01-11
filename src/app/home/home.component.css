@@ -3,8 +3,8 @@
   }
   
   .carousel-caption {
-    position: inherit;
+    position: relative;
     color: #333;
     text-align: left;
-    left: 5%;
+    left: 0%;
   }

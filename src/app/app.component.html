@@ -23,13 +23,6 @@
         <a href="{{item.link}}" target="blank" *ngIf="item.isNew===true">{{item.name}}</a>
       </div>
       <hr>
-      <div class="add-component-container">
-        <input type="text" class="form-control" [(ngModel)]="title" placeholder="Type Title">
-        <input type="text" class="form-control" [(ngModel)]="url" placeholder="Type url like www.google.com"> 
-        <div class="col-md-10 offset-md-1">
-          <button class="btn btn-primary btn-block" (click)="add(title,url)">Add Link</button>
-        </div>       
-      </div>
     </div>    
   </div>
   <div class="col-md-10">
