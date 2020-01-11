@@ -48,7 +48,7 @@ export class ProductsComponent implements OnInit {
         id:4,
         title: "Latte",
         description: "200 ml of Latte",
-        img:"hot_coffe.png",
+        img:"assets/togo.png",
         price:3
       },
       {
