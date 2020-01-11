@@ -27,63 +27,63 @@ export class ProductsComponent implements OnInit {
         id: 1,
         title: "Tea",
         description: "British Tea",
-        img:"",
+        img:"assets/tea.png",
         price: 1.99
       },
       {
         id:2,
         title: "Espresso Machine",
         description: "Italian Espresso Machine",
-        img:"",
+        img:"assets/espresso.png",
         price:5
       },
       {
         id:3,
         title: "Coffee",
         description: "Cup of coffee",
-        img:"",
+        img:"assets/coffe.png",
         price:2.99
       },
       {
         id:4,
         title: "Latte",
         description: "200 ml of Latte",
-        img:"",
+        img:"hot_coffe.png",
         price:3
       },
       {
         id:5,
         title: "Cappuccino",
         description: "250 ml of Cappuccino",
-        img:"",
+        img:"assets/cappucino.png",
         price:4.50
       },
       {
         id:6,
         title: "Milk",
         description: "Cup of cold milk",
-        img:"",
+        img:"assets/milk.png",
         price:1
       },
       {
         id:7,
         title: "Black Coffee",
         description: "100 ml of Coffee",
-        img:"",
+        img:"assets/coffe2.png",
         price:4
       },
       {
         id:8,
         title: "Cocoa",
         description: "Hot Cocoa",
-        img:"",
+        img:"assets/hot_cocoa.png",
         price:2
       },
       {
         id:9,
         title: "Macchiato",
         description: "300 ml of Macchiato",
-        img:"",
+        img:"assets/macchiato.png",
         price:3
       }
     ]
