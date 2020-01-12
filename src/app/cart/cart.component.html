@@ -19,12 +19,10 @@
         <a class="text-danger" (click)="removeItem(i)"><strong>X</strong></a>
       </div>
     </div>
-  </div>
-  
+  </div> 
   <div class="container row" *ngIf="!cartProducts.length">
     <div class="col-md-4 offset-md-4">No Item In Cart.</div>
   </div>
-  
   <div class="bill-container">
     <div class="col-md-4 offset-md-2">
       <button class="btn btn-success btn-lg pull-left" (click)="payBill()">Pay Bill</button>
