@@ -30,7 +30,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Screens
 
-![Screen]https://ibb.co/f0X3Jbm
-![Screen]https://ibb.co/xYjHNWN
-![Screen]https://ibb.co/1m5FGDK
-![Screen]https://ibb.co/6PR1sTT
+![Screenshot](1.png)
+![Screenshot](2.png)
+![Screenshot](3.png)
+![Screenshot](4.png)
